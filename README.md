@@ -1,2 +1,1 @@
-https://camo.githubusercontent.com/7ab1596fb78acd88aed3015c3b3567790cd1599322d7bff52b697c2669d56b91/68747470733a2f2f67697068792e636f6d
-
+https://giphy.com.gif
